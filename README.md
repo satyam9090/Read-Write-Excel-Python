@@ -1,4 +1,4 @@
-# Install openpyxl and xlwt modules in Python
+# Install openpyxl and xlsxwriter modules in Python
 
 If you want to read, write, and perform more operations like formatting while writing using python then you need to install these modules.
 
